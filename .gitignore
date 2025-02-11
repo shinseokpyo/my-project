@@ -1,0 +1,11 @@
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cache/
+.conda/
+.local/
+.ssh/
+.viminfo
+miniconda3/
+venv/
